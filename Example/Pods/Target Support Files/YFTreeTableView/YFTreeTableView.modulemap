@@ -1,0 +1,6 @@
+framework module YFTreeTableView {
+  umbrella header "YFTreeTableView-umbrella.h"
+
+  export *
+  module * { export * }
+}

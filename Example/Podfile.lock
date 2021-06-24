@@ -1,0 +1,16 @@
+PODS:
+  - YFTreeTableView (0.1.0)
+
+DEPENDENCIES:
+  - YFTreeTableView (from `../`)
+
+EXTERNAL SOURCES:
+  YFTreeTableView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YFTreeTableView: 355a085b625bac3442801ed9f2a73a60c9154773
+
+PODFILE CHECKSUM: 8a81a7db9861fb5692f146c046139da729c18b24
+
+COCOAPODS: 1.10.1
